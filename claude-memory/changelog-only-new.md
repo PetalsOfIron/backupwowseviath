@@ -12,6 +12,6 @@ When writing a CurseForge changelog for the Useful Tools addon, list only the up
 
 **Why:** the user pasted a full changelog twice and asked "next time list only the updates" (after the 1.7 text repeated 1.6 content).
 
-**How to apply:** keep a mental diff since the previous changelog text (version 1.7 was the last one given). Also keep the `.toc` version in sync with the changelog number the user names.
+**How to apply:** keep a mental diff since the previous changelog text (version 1.9 was the last one given, 2026-11-01). Also keep the `.toc` version in sync with the changelog number the user names.
 
 See also [[push-after-task]] and [[useful-tools-git-location]].
