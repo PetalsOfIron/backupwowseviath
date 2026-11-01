@@ -1,0 +1,16 @@
+- [Rust egui rewrite](rust-egui-rewrite.md) — SeviathStudio rewritten in Rust/egui in Projects/seviathstudio-rs, pushed to GitHub santamadaraneilande-ctrl/seviathstudio; ROADMAP.md milestones
+- [Open source, settings, tablet](open-source-and-settings.md) — open source GPL-3.0-or-later, decide settings yourself, Huion tablet via Windows Ink
+- [Seviath game](seviath-game.md) — game design doc + Readybases folder, ROADMAP.md decisions (Bevy, Blender cleanup pipeline, skill linter)
+- [Seviath face style](seviath-face-style.md) — female/male anime reference looks for code-painted faces
+- [Online scope](online-scope.md) — only accounts and libraries online, no chat / rigger search, no own servers, free services only
+- [PC limits](pc-limits.md) — 8 GB VRAM, one GPU job at a time; tell-me-when-FFXIV
+- [Rig AI mix and VRM](rig-ai-mix-vrm.md) — .cmo3 importer 30b, 3D game rig 30c, AI and own rig mixable, VRM engine
+- [VRM reference files](vrm-reference-files.md) — Sem and Emi VRMs in 1.0 and 0.x, VRoid-style structure to match
+- [Useful Tools WoW addon](useful-tools-addon.md) — SeviathsUsefulTools MoP Classic addon; square snake minimap skin still to build
+- [PSD layers as made](psd-layers-as-made.md) — never reorder their PSDs, keep clipping, patches clipped to Faceline, sides by place
+- [Notes folder](notes-folder.md) — ROADMAP.md and FEEDBACK.md live in Projects/seviathstudio-notes, not in the repo
+- [Useful Tools retail edition](useful-tools-retail.md) — merged retail Midnight build in _retail_ AddOns, derived from classic + retail Farm Pack/Codex/D&R/Guild modules
+- [Push only when asked](push-after-task.md) — Useful Tools: commit+push only when user says; external git dir
+- [Useful Tools git location](useful-tools-git-location.md) — retail addon .git is outside the folder; push with --git-dir flags
+- [Changelog: only new updates](changelog-only-new.md) — CurseForge changelogs list only what changed since the last one; last given was 1.7
+- [Collected data repo](useful-tools-collected-data-repo.md) — collected data pushed always to public PetalsOfIron/Data-wow; saved-vars constant limit warning
