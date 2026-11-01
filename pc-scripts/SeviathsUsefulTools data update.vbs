@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File ""D:\wow\World of Warcraft\_retail_\Interface\AddOns\SeviathsUsefulTools\tools\auto_update.ps1""", 0, False
