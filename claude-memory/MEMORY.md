@@ -14,3 +14,4 @@
 - [Useful Tools git location](useful-tools-git-location.md) — retail addon .git is outside the folder; push with --git-dir flags
 - [Changelog: only new updates](changelog-only-new.md) — CurseForge changelogs list only what changed since the last one; last given was 1.9
 - [Collected data repo](useful-tools-collected-data-repo.md) — collected data pushed always to public PetalsOfIron/Data-wow; saved-vars constant limit warning
+- [WoW Forever addon](wow-forever-addon.md) — _forever_ client addon, repo PetalsOfIron/SeviathsUsefultools-forever, tools and data sources
