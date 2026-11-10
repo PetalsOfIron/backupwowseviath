@@ -15,3 +15,4 @@
 - [Changelog: only new updates](changelog-only-new.md) — CurseForge changelogs list only what changed since the last one; last given was 1.9
 - [Collected data repo](useful-tools-collected-data-repo.md) — collected data pushed always to public PetalsOfIron/Data-wow; saved-vars constant limit warning
 - [WoW Forever addon](wow-forever-addon.md) — _forever_ client addon, repo PetalsOfIron/SeviathsUsefultools-forever, tools and data sources
+- [Forever quest marks from Questie](forever-quest-markers-questie.md) — Questie DB baked into Data/QuestDB.lua + QuestStarts.lua, rules ported, bake_questie.py
