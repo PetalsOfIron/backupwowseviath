@@ -17,3 +17,5 @@
 - [WoW Forever addon](wow-forever-addon.md) — _forever_ client addon, repo PetalsOfIron/SeviathsUsefultools-forever, tools and data sources
 - [Forever quest marks from Questie](forever-quest-markers-questie.md) — Questie DB baked into Data/QuestDB.lua + QuestStarts.lua, rules ported, bake_questie.py
 - [Always rebuild release](always-rebuild-release.md) — run cargo build --release after every change so the desktop app updates
+- [Portfolio site push always](portfolio-site-push-always.md) — Projects/portfolio → PetalsOfIron/Seviath; regenerate, commit+push after every change
+- [Addon release + site links](addon-release-site-links.md) — after every addon change run portfolio/publish_addons.py: zips, GitHub releases, site download links, push
