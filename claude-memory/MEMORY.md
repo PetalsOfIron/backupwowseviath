@@ -19,3 +19,6 @@
 - [Always rebuild release](always-rebuild-release.md) — run cargo build --release after every change so the desktop app updates
 - [Portfolio site push always](portfolio-site-push-always.md) — Projects/portfolio → PetalsOfIron/Seviath; regenerate, commit+push after every change
 - [Addon release + site links](addon-release-site-links.md) — after every addon change run portfolio/publish_addons.py: zips, GitHub releases, site download links, push
+- [X showcase posting progress](x-showcase-posting-progress.md) — paused after 5 of 13 posts; resume at Tessel set, then Perfum, Northbeam, Strikeline, Rose, 3 brand kits
+- [Gumroad selling plan](gumroad-selling-plan.md) — name-free packs at 5 EUR; 10 of 13 listed; never sell Rose; remake logos/screens/kits with neutral text next
+- [No Claude co-author](no-claude-coauthor.md) — never add Claude attribution to commits; history rewritten 2026-11-19
