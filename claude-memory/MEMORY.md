@@ -22,3 +22,6 @@
 - [X showcase posting progress](x-showcase-posting-progress.md) — paused after 5 of 13 posts; resume at Tessel set, then Perfum, Northbeam, Strikeline, Rose, 3 brand kits
 - [Gumroad selling plan](gumroad-selling-plan.md) — name-free packs at 5 EUR; 10 of 13 listed; never sell Rose; remake logos/screens/kits with neutral text next
 - [No Claude co-author](no-claude-coauthor.md) — never add Claude attribution to commits; history rewritten 2026-11-19
+- [LinkedIn showcase posts](linkedin-showcase-posts.md) — progress of portfolio posts, rules, flow
+- [Facebook dropped](facebook-dropped.md) — Facebook education/design request cancelled, do not raise it
+- [Lavender Twitch kit](lavender-twitch-kit.md) — unpublished name-free kit in Documents\twitch\Lavender, script in portfolio/tools
