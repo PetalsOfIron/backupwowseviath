@@ -25,3 +25,5 @@
 - [LinkedIn showcase posts](linkedin-showcase-posts.md) — progress of portfolio posts, rules, flow
 - [Facebook dropped](facebook-dropped.md) — Facebook education/design request cancelled, do not raise it
 - [Lavender Twitch kit](lavender-twitch-kit.md) — unpublished name-free kit in Documents\twitch\Lavender, script in portfolio/tools
+- [Job application rules](job-application-rules.md) — show letters first, true facts only, AI mention rules, LV/EN CV choice, log every application in NVA diary
+- [Clip Studio gouache brushes](clip-studio-gouache-brushes.md) — 30-brush CSP pack at 2 EUR on Gumroad/Payhip/Ko-fi/Etsy, delivered as 5 part zips (upload size limits)
