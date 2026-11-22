@@ -5,7 +5,7 @@ metadata:
   node_type: memory
   type: feedback
   originSessionId: fa0bd63c-f38e-49c5-bdd6-24eede93fa24
-  modified: 2026-11-21T17:53:51.050Z
+  modified: 2026-11-22T01:56:50.052Z
 ---
 
 Applying for jobs for Santa (design/marketing, Riga, started 2026-11-21). Report is in Downloads\Dokumenti\CVCOVERLETTERS\Darba_piedavajumi_2026-11-21.pdf.
@@ -13,6 +13,9 @@ Applying for jobs for Santa (design/marketing, Riga, started 2026-11-21). Report
 - Show each cover letter and get an OK before sending; go one job at a time.
 - Use LVCV.pdf if the ad is Latvian, engCV.pdf if English. Put the portfolio link (petalsofiron.github.io/Seviath) in the letter too, not only the CV. Do NOT put the YouTube channel link in letters (from 2026-11-21; the portfolio already has all videos). Include the single animation example link only when the job needs animation (user confirmed 2026-11-21). Only animation example: youtube.com/watch?v=XbzS0fM7Wp4 (Live2D-style angel, 26 s).
 - True information only, plain human tone, no AI-sounding text.
+- Never write what she lacks or doesn't know (no "I haven't worked as a designer yet", no "no food-industry experience"): in Latvia you simply leave it out (user said so 2026-11-22). Never lie either.
+- Designed cover letters are fine. If the apply form has no text box for the letter, attach it as a designed PDF.
+- Diary contact lines: a phone number and an email, never ad links or ad numbers; if the ad has none, look up the company website; never leave contacts empty. Edit the user's existing diary copy in place (she edits it in Word), don't rebuild from the original.
 - Never say design work is AI-made. Rust/Lua code in her projects was written by Claude: say she knows only the basics of code and AI is a coding helper only. Mention AI only if the ad asks for it; then say she can build anything with AI help (even apps) but normally does not unless the job needs it.
 - Can make videos (video jobs, Unity). Can draw rigged 2D characters in Live2D if animation is required. Do not say her old animations were deleted or that the portfolio has no animation examples.
 - Contact: phone 25952978; email on CVs is santamadaraneilande@gmail.com (user once typed ...neilade, probably a typo).
