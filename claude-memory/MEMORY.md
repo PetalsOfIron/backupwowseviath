@@ -27,3 +27,6 @@
 - [Lavender Twitch kit](lavender-twitch-kit.md) — unpublished name-free kit in Documents\twitch\Lavender, script in portfolio/tools
 - [Job application rules](job-application-rules.md) — show letters first, true facts only, AI mention rules, LV/EN CV choice, log every application in NVA diary
 - [Clip Studio gouache brushes](clip-studio-gouache-brushes.md) — 30-brush CSP pack at 2 EUR on Gumroad/Payhip/Ko-fi/Etsy, delivered as 5 part zips (upload size limits)
+- [Apps private by default](apps-private-by-default.md) — new apps stay private (no public repo/release/page) unless the user says public
+- [Upwork profile showcases](upwork-profile-showcases.md) — 8 watermarked showcases replaced 25 old items; no brochure, no repeated designs
+- [SEO Studio app](seo-studio-app.md) — Projects/seo-viewer, private GitHub repo, freeware license, WordPress deleted, Framer apps page next
