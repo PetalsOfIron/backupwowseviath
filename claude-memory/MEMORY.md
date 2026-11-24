@@ -29,4 +29,5 @@
 - [Clip Studio gouache brushes](clip-studio-gouache-brushes.md) — 30-brush CSP pack at 2 EUR on Gumroad/Payhip/Ko-fi/Etsy, delivered as 5 part zips (upload size limits)
 - [Apps private by default](apps-private-by-default.md) — new apps stay private (no public repo/release/page) unless the user says public
 - [Upwork profile showcases](upwork-profile-showcases.md) — 8 watermarked showcases replaced 25 old items; no brochure, no repeated designs
+- [Job list: applied removal](job-list-applied-removal.md) — job report has "I applied" buttons; drop applied jobs; never apply without being told
 - [SEO Studio app](seo-studio-app.md) — Projects/seo-viewer, private GitHub repo, freeware license, WordPress deleted, Framer apps page next
