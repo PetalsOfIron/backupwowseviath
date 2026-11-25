@@ -31,3 +31,5 @@
 - [Upwork profile showcases](upwork-profile-showcases.md) — 8 watermarked showcases replaced 25 old items; no brochure, no repeated designs
 - [Job list: applied removal](job-list-applied-removal.md) — job report has "I applied" buttons; drop applied jobs; never apply without being told
 - [SEO Studio app](seo-studio-app.md) — Projects/seo-viewer, private GitHub repo, freeware license, WordPress deleted, Framer apps page next
+- [Upwork 9ON proposal](upwork-9on-proposal.md) — sent 2026-11-24 at $12/h; she makes the logo herself from AI options; vector + licence reminders
+- [Fiverr + Upwork gigs](fiverr-upwork-gigs.md) — thumbnail gig converted (paused), Upwork Twitch pack draft, brand kit + thumbnail drafts still to do
