@@ -33,3 +33,8 @@
 - [SEO Studio app](seo-studio-app.md) — Projects/seo-viewer, private GitHub repo, freeware license, WordPress deleted, Framer apps page next
 - [Upwork 9ON proposal](upwork-9on-proposal.md) — sent 2026-11-24 at $12/h; she makes the logo herself from AI options; vector + licence reminders
 - [Fiverr + Upwork gigs](fiverr-upwork-gigs.md) — thumbnail gig converted (paused), Upwork Twitch pack draft, brand kit + thumbnail drafts still to do
+- [Always add tags](always-add-tags.md) — every listing/gig/product needs tags (+ requirements on Upwork/Fiverr), verify saved
+- [Etsy: Created by me](etsy-created-by-me.md) — every Etsy listing must have digital content = "Created by me"
+- [Never alter originals](never-alter-originals.md) — her artwork stays as drawn; vector stays vector; showcases watermarked originals; do only what is asked
+- [Check price before posting](check-price-before-posting.md) — X posts must use the price shown on the live listing (Etsy shows 12.10 EUR incl. VAT for 10 EUR items)
+- [Watermark style](watermark-style-all-shops.md) — PREVIEW tiles + PetalsOfIron in all 4 corners on every showcase/post image, all shops
